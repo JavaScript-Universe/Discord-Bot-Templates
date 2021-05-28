@@ -34,3 +34,7 @@ I will make many folders with different types of command examples so you can see
    message.channel.send("Hi" + message.author);
   }
 });`
+
+# ⚠️ Your bots  ⚠️
+- A bot token is a password for you client, which you should never share anywhere, except for your fellow bot developers that are working exactly on that client. The Discord System is able to reset your token if it should notice it in any textchannel, website that anyone can access and especially on github. Once the token was resetted you will receive a direct message of the Discord system, saying that your bots token was leaked and the location of the leak (website or server).
+- You are responsible for your bots, which means they require to the [Discord Terms of Service](https://discord.com/terms).
