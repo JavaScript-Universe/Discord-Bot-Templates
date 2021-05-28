@@ -1,0 +1,1 @@
+Copyright (c) JavaScript Universe. All rights reserved.
