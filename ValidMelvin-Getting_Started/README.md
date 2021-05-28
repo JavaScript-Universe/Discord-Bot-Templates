@@ -29,7 +29,7 @@
 ## Making your first (or second, ot third and whatever) command
 - So there are many ways to make a command with Discord.js. This will be the easiest way and without a command handler.
 I will make many folders with different types of command examples so you can see the difference between a command without a command handler and with, but for now we shall be fine without as we don't want this to get too complex.
-- We will use an even, which will be fired whenever a message was sent, this event will check if the message starts with our command, if not, the client will just ignore it. It's also called the `on message` event. Insert this above your `client.login` function: `client.on('message', msg => {
+- We will use an even, which will be fired whenever a message was sent, this event will check if the message starts with our command, if not, the client will just ignore it. It's also called the `on message` event. Insert this above your `client.login` function: `client.on('message', message => {
   if (message.content === 'hello') {
    message.channel.send("Hi" + message.author);
   }
