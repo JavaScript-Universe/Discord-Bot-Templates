@@ -14,8 +14,16 @@ You can push any Discord bot formats here, may these be commands, events, snippe
 + Try to limit the amount of npm packages
 + Code must be semi clean
 
+## How do I upload my code?
+
++ Fork the repository and make a folder that has your Github name in its name.
++ Insert whatever you want people to see (Discord terms apply at all times)
++ Once you have commited that change, create a pull request.
++ From here a moderator will review the code and accept/deny the pull request. If your pull request should get denied, then it's for a valid reason. 
+
 ## Notes:
 
 + Please do not forget to insert a license or some form of proof that you created the code, we are not to be held responsible for any stolen code from this GitHub
 + Please remove any kind of authorization token from your code before submitting it here
 + Thank you for considering to submit your code to our GitHub!
+
