@@ -7,7 +7,6 @@ You can push any Discord bot formats here, may these be commands, events, snippe
 
 ## Requirements:
 
-+ Must be Discord.js V12 or higher
 + Must not be stolen from someone else
 + Must be useful, so no simple console log functions
 + Must not contain any advertisements or links to external sources (api's excluded)
